@@ -14,7 +14,7 @@
 
 > Risk Return Analysis program evaluates four new investment options for inclusion in the client portfolios. Program determines the fund with the most investment potential based on key risk-management metrics: the daily returns, standard deviations, Sharpe ratios, and betas
 
----
+---S
 
 ## Technologies
 
